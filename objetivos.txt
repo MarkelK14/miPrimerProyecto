@@ -5,3 +5,4 @@ Estos son mis objetivos del curso:
     - Conseguir un nuevo puesto de trabajo que tenga relación con lo aprendido en el curso
     - Aprender Angular
     - Aprender más sobre HTML y CSS
+    - Aprender sobre front end y back end
