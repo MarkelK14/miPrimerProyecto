@@ -3,3 +3,4 @@ Estos son mis objetivos del curso:
     - Aprender nuevas tecnologías que no conocía
     - Obtener mayor y mejor capacidad de resolución de problemas
     - Conseguir un nuevo puesto de trabajo que tenga relación con lo aprendido en el curso
+    - Aprender Angular
