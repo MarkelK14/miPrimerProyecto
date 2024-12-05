@@ -1,2 +1,3 @@
 Estos son los conocimientos previos que tengo:
     -   SQL Server
+    -   C#
